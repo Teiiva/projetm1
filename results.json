@@ -1,0 +1,596 @@
+[
+    {
+        "html_number": 1,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342753/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 2,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342765/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 3,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342777/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 4,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342789/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 5,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342790/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 6,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342808/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 7,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342821/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 8,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342833/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 9,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342845/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 10,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342857/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 11,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342869/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    },
+    {
+        "html_number": 12,
+        "url": "https://www.bodc.ac.uk/data/documents/series/1342870/",
+        "parameters": {
+            "headers": [
+                "BODC CODE",
+                "Rank",
+                "Units",
+                "Title"
+            ],
+            "rows": [
+                [
+                    "ADEPZZ01",
+                    "1",
+                    "Metres",
+                    "Depth (spatial coordinate) relative to water surface in the water body"
+                ],
+                [
+                    "BOTTFLAG",
+                    "1",
+                    "Not applicable",
+                    "Sampling process quality flag (BODC C22)"
+                ],
+                [
+                    "FIRSEQID",
+                    "1",
+                    "Dimensionless",
+                    "Bottle firing sequence number"
+                ],
+                [
+                    "NTRZLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of nitrate+nitrite {NO3+NO2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "PHOSLWTX",
+                    "1",
+                    "Micromoles per litre",
+                    "Concentration (nM sensitivity) of phosphate {PO43- CAS 14265-44-2} per unit volume of the water body [dissolved plus reactive particulate phase] by colorimetric autoanalysis with liquid waveguide capilliary cell"
+                ],
+                [
+                    "SAMPRFNM",
+                    "1",
+                    "Dimensionless",
+                    "Sample reference number"
+                ]
+            ]
+        }
+    }
+]

@@ -22,7 +22,7 @@ def load_checkbox_values():
     """Charge les 100 premières valeurs numériques du fichier checkbox_values.txt"""
     try:
         with open(checkbox_file, "r", encoding="utf-8") as file:
-            return [line.strip() for line in file if line.strip().isdigit()][:]
+            return [line.strip() for line in file if line.strip().isdigit()][:100]
     except FileNotFoundError:
         print(f"Fichier {checkbox_file} introuvable.")
         return []

@@ -18,7 +18,7 @@ from tqdm import tqdm
 
 # Déterminer le répertoire du script actuel
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-CHECKBOX_FILE = os.path.join(SCRIPT_DIR, "checkbox_values.txt")
+CHECKBOX_FILE = os.path.join(SCRIPT_DIR, "checkbox_values - Copie.txt")
 
 # Fonction pour vérifier si le fichier existe et charger les valeurs
 def load_or_generate_checkbox_values():
@@ -103,33 +103,6 @@ def fetch_parameters_table(url):
         rows = [[cell.text.strip() for cell in row.find_all("td")] for row in table.find_all("tr")]
         rows = [row for row in rows if row]
 
-        # Extraction de la section Time Co-ordinates(UT)
-        time_section = soup.find("h2", string="Time Co-ordinates(UT)")
-        if not time_section:
-            print(f"Aucune section 'Time Co-ordinates(UT)' trouvée pour {url}")
-            return None
-
-        table = time_section.find_next("table")
-        if not table:
-            print(f"Aucun tableau trouvé pour {url} dans la section 'Time Co-ordinates(UT)'")
-            return None
-
-        time_rows = [[cell.text.strip() for cell in row.find_all("td")] for row in table.find_all("tr")]
-        time_rows = [row for row in time_rows if row]
-
-        # Extraction de la section Spatial Co-ordinates(UT)
-        spatial_section = soup.find("h2", string="Spatial Co-ordinates")
-        if not time_section:
-            print(f"Aucune section 'Spatial Co-ordinates' trouvée pour {url}")
-            return None
-
-        table = spatial_section.find_next("table")
-        if not table:
-            print(f"Aucun tableau trouvé pour {url} dans la section 'Spatial Co-ordinates'")
-            return None
-
-        spatial_rows = [[cell.text.strip() for cell in row.find_all("td")] for row in table.find_all("tr")]
-        spatial_rows = [row for row in spatial_rows if row]
 
         # Extraction de la section narrative documents
         # Stroker tout le texte contenu entre le h1 'Narrative Documents' et le <a name="data_activity">Data Activity or Cruise Information</a>
@@ -153,8 +126,6 @@ def fetch_parameters_table(url):
         # Retourner le texte extrait dans le dictionnaire des résultats
         return {
             "parameters": {"headers": headers, "rows": rows},
-            "time_coordinates": {"rows": time_rows},
-            "spatial_coordinates": {"rows": spatial_rows},
             "narrative_documents": narrative_text.strip()  # Ajouter le texte de la section narrative
         }
     
@@ -182,8 +153,6 @@ def fetch_multiple_pages():
                     if result:
                         # On récupère les données des deux sections
                         parameters_data = result.get("parameters", {})
-                        time_coordinates_data = result.get("time_coordinates", {})
-                        spatial_coordinates_data = result.get("spatial_coordinates", {})
                         narrative_data = result.get("narrative_documents", {})
                         
                         # Ajout des données dans la liste all_data
@@ -191,8 +160,6 @@ def fetch_multiple_pages():
                             "html_number": idx + 1,  # Ajouter le numéro de page HTML
                             "url": f"{base_url}{value}/",
                             "parameters": parameters_data,  # Ajout des données Parameters
-                            "time_coordinates": time_coordinates_data,  # Ajout des données Time Co-ordinates(UT)
-                            "spatial_coordinates" : spatial_coordinates_data,
                             "narrative_documents" : narrative_data
                         })
 
